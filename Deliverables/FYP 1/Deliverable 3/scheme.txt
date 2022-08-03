@@ -1,0 +1,29 @@
+IMAGE
+-array of pixels
+
+VIDEO
+-array of frames
+-array of keyframes (after preprocessing)
+
+IMAGE WATERMARK EMBEDDING (MODULE)
+-functions
+
+IMAGE AUTHENTICATION (MODULE)
+-functions
+
+IMAGE RECOVERY (MODULE)
+-functions
+
+VIDEO WATERMARK EMBEDDING (MODULE)
+-functions 
+-keyframe selection
+-uses functions from IMAGE WATERMARK EMBEDDING (MODULE)
+
+VIDEO AUTHENTICATION (MODULE)
+-functions 
+-uses functions from IMAGE AUTHENTICATION (MODULE)
+
+VIDEO RECOVERY (MODULE)
+-functions 
+-keyframe selection
+-uses functions from IMAGE RECOVERY (MODULE)

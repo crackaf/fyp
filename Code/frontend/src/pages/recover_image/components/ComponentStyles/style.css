@@ -1,0 +1,19 @@
+.action-btn {
+  background-color: #06628ad5;
+}
+.action-btn:hover {
+  background-color: #06628ad5;
+}
+
+.infoCircleOutlined {
+  color: rgba(0, 0, 0, 0.45);
+  height: 50px;
+  width: 50px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 25px;
+}

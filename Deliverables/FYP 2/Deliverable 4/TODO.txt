@@ -1,0 +1,7 @@
+• change abstract
+• change gui in report
+• change sequence diagram 3.12.2
+• change sequence diagram 3.12.4
+• change sequence diagram 3.12.6
+• add experimental results
+• change implementation of video authentication and restoration
